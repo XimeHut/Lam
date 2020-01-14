@@ -23,6 +23,7 @@ public class App {
 
         print(animals, new CheckIfHopper()); // pasa la clase que hace la prueba
     }
+    
 
     private static void print(List<Animal> animals, CheckTrait checker) {
         for (Animal animal : animals) {
