@@ -10,7 +10,7 @@ public class App {
         animals.add(new Animal("kangaroo", true, false));
         animals.add(new Animal("rabbit", true, false));
         animals.add(new Animal("turtle", false, true));
-        animals.add(new Animal("ratata", false, true));
+        animals.add(new Animal("ratata", true, false));
         animals.add(new Animal("lapras", false, true));
 
 
